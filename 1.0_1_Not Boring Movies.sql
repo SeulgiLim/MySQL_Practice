@@ -87,4 +87,4 @@ WHERE ID%2 = 1
 AND DESCRIPTION != 'boring'
 ORDER BY RATING DESC;
 
-#왜 이렇게 연동이 안되지?
+#

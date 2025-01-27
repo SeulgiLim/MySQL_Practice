@@ -83,6 +83,7 @@ FROM CINEMA
 
 #8 Foreign Keys
 # 발표자료 보강필요
+# 정규화 공부
 WHERE ID%2 = 1
 AND DESCRIPTION != 'boring'
 ORDER BY RATING DESC;

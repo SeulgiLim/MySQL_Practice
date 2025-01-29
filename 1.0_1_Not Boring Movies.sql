@@ -88,4 +88,4 @@ WHERE ID%2 = 1
 AND DESCRIPTION != 'boring'
 ORDER BY RATING DESC;
 
-#
+#정규화 공부2

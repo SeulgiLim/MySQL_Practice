@@ -86,3 +86,4 @@ ORDER BY AUTHOR_ID;
 
 # Join 발표자료 정리
 # 1월 회고
+# 정규화

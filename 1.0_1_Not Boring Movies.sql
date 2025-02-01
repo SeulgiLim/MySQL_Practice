@@ -89,3 +89,4 @@ AND DESCRIPTION != 'boring'
 ORDER BY RATING DESC;
 
 #정규화 공부2
+#정규화 발표준비
